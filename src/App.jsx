@@ -14,7 +14,6 @@ const App = () => {
       <Login />
       <Logout />
       <Mode />
-      {theme}
     </div>
   );
 };
